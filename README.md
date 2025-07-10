@@ -16,4 +16,11 @@ This is a smart product recommendation system using **Machine Learning** and **S
 
 ## 📁 Project Structure
 
+ecommerce-recommender-system/
+│
+├── app.py # Main Streamlit app
+├── products.csv # Product dataset
+├── README.md # Project documentation
+└── requirements.txt # Dependencies
+
 
